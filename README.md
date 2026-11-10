@@ -191,10 +191,3 @@ Noisy circuits and random bitstrings introduce **diversity**, filling the subspa
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
-
-## 🙏 Acknowledgements
-
-- [Qiskit SQD Addon](https://github.com/Qiskit/qiskit-addon-sqd) team
-- [PennyLane](https://pennylane.ai) team
-- [PySCF](https://pyscf.org) developers
-- IBM Quantum for FakeSherbrooke noise model data
