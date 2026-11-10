@@ -1,0 +1,23 @@
+# Core quantum chemistry
+pyscf>=2.15.0
+ffsim>=0.0.86
+
+# Qiskit ecosystem
+qiskit>=2.6.0
+qiskit-aer>=0.18.0
+qiskit-ibm-runtime>=0.52.0
+qiskit-addon-sqd>=0.14.0
+
+# PennyLane ecosystem
+pennylane>=0.45.0
+pennylane-lightning>=0.45.0
+
+# Data & plotting
+numpy>=1.13
+scipy>=1.6.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Optional: Jupyter notebook support
+notebook>=7.0.0
+ipykernel>=6.0.0
